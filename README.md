@@ -20,4 +20,4 @@ Python interpreter set up in VS code:
 1. Add the Python extension
 2. Click the bottom status bar to select the interpreter (it's near the settings button)
 
-![VS Code Interpreter](/images/python-interpreter.jpg)
+![VS Code Interpreter](https://github.com/dboconsultingllc/BootcampConcepts/blob/mainBranch/images/python-interpreter.JPG)
