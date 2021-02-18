@@ -14,6 +14,8 @@ Linters:
 
 For Python: [various](https://code.visualstudio.com/docs/python/linting#_specific-linters)
 
+<a href="https://code.visualstudio.com/docs/python/linting#_specific-linters" target="_blank">various</a>
+
 For Powershell: [psscriptanalyzer](https://github.com/PowerShell/PSScriptAnalyzer)
 
 
