@@ -12,9 +12,7 @@ For Powershell: [pester](https://github.com/pester/Pester)
 Linters:
 >For syntax validation
 
-For Python: [various](https://code.visualstudio.com/docs/python/linting#_specific-linters)
-
-<a href="https://code.visualstudio.com/docs/python/linting#_specific-linters" target="_blank">various</a>
+For Python: <a href="https://code.visualstudio.com/docs/python/linting#_specific-linters" target="_blank">various options</a>
 
 For Powershell: [psscriptanalyzer](https://github.com/PowerShell/PSScriptAnalyzer)
 
