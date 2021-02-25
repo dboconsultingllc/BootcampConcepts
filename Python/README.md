@@ -28,4 +28,4 @@ Your code has been rated at 7.50/10 (previous run: 7.50/10, +0.00)
 ```
 The higher the score, the better. :joy:
 
-**Note** A nice resource for [pylint codes](http://pylint-messages.wikidot.com/messages:w0311).
+**Note** A nice resource for [pylint codes](http://pylint-messages.wikidot.com/all-codes).
