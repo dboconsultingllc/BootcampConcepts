@@ -1,6 +1,6 @@
 # Bootcamp Concepts
 
-![header](bootcamp.png)
+![header](https://github.com/dboconsultingllc/BootcampConcepts/blob/mainBranch/images/Bootcamp.png)
 
 Collection of notes and sample code during 10 week cloud skills bootcamp.
 
