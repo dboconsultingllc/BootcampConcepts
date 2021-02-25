@@ -7,7 +7,7 @@ Collection of notes and sample code during 10 week cloud skills bootcamp.
 
 Topics Covered:
 
-* Python Code
+* [Python Code](https://github.com/dboconsultingllc/BootcampConcepts/tree/mainBranch/Python)
 
 * [Powershell Code](https://github.com/dboconsultingllc/BootcampConcepts/tree/mainBranch/Powershell)
 
