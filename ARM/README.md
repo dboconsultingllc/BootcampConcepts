@@ -1,4 +1,4 @@
-# Arm template Notes and Code
+# Arm Template Notes and Code
 
 **Quick Tips**
 * Use the VS code  [`Azure Resource Manager Tools`](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) extension
