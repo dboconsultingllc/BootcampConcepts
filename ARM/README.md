@@ -11,6 +11,8 @@ ARM Templates are a way to declare the objects you want, the types, names and pr
 
 * ARM template [`syntax and structure`](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-syntax)
 
+* Azure CLI Commnands [`reference`](https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest)
+
 * Many more tips to come!
 
 ## High level description of an arm template 
