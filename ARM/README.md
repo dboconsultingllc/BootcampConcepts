@@ -3,9 +3,13 @@
 ARM Templates are a way to declare the objects you want, the types, names and properties in a JSON file which can be checked into source control and managed like any other code file. ARM Templates is one way to support the creation of infrastrcuture and services as code in Azure.
 
 **Quick Tips**
+* Install or ```az upgrade``` the azure cli
+
 * Use the VS code  [`Azure Resource Manager Tools`](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) extension
 
 * Get familiar with [`JSON Schema`](https://json-schema.org/) to become more familiar with the structure
+
+* ARM template [`syntax and structure`](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-syntax)
 
 * Many more tips to come!
 
