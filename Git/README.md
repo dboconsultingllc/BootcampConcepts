@@ -11,3 +11,13 @@ Git commands to help with simple day to day tasks.
 ### Git commit: **Commit file to local repo and add message**   <pre> `Git Commit -m "my notes about the file" ` 
 
 ### Git push: **Push files to remote repo**   <pre> `Git Push ` 
+
+### VERY IMPORTANT!!: **[Markdown Emoji's!](https://gist.github.com/rxaviers/7360908)** 
+Examples below. :blush:
+| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
+|---|---|---|
+| :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
+| :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
+| :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
+| :satisfied: `:satisfied:` | :grin: `:grin:` | :wink: `:wink:` |
+ 
