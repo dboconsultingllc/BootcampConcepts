@@ -11,6 +11,8 @@ Terraform is an open-source infrastructure as code software tool created by Hash
 
 * Link to Terraform [`providers`](https://registry.terraform.io/browse/providers)
 
+* Pre-defined gitignore file for [`terraform`](https://github.com/github/gitignore/blob/master/Terraform.gitignore)
+
 ## Concepts and examples
 
 | Terraform concepts | Reference | Example
