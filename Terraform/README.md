@@ -18,5 +18,7 @@ Terraform is an open-source infrastructure as code software tool created by Hash
 | Terraform concepts | Reference | Example
 | --- | ----------- |---------|
 | Interpolation can be used for referencing values from resources to be used in other files/resources. | [Reference](https://www.terraform.io/docs/configuration-0-11/interpolation.html)| ![Example](https://github.com/dboconsultingllc/BootcampConcepts/blob/mainBranch/images/tf-InterpolationExample.png)
-
+| The terraform `plan` command is used to prepare to execute your scripts | [Reference](https://www.terraform.io/docs/cli/commands/plan.html)| N/A
+| The terraform `apply` command is used to execute your scripts based on the plan | [Reference](https://www.terraform.io/docs/cli/commands/apply.html)| N/A
+| Take a guess on what the terraform `destroy` command does. :blush:  | [Reference](https://www.terraform.io/docs/cli/commands/destroy.html)| N/A
 
