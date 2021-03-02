@@ -15,6 +15,6 @@ Terraform is an open-source infrastructure as code software tool created by Hash
 
 | Terraform concepts | Reference | Example
 | --- | ----------- |---------|
-| Interpolation can be used for refereing values from objects in the same terraform file or other files | [Reference](https://www.terraform.io/docs/configuration-0-11/interpolation.html)| ![Example](https://github.com/dboconsultingllc/BootcampConcepts/blob/mainBranch/images/tf-InterpolationExample.PNG)
+| Interpolation can be used for refereing values from objects in the same terraform file or other files | [Reference](https://www.terraform.io/docs/configuration-0-11/interpolation.html)| ![Example](https://github.com/dboconsultingllc/BootcampConcepts/blob/mainBranch/images/tf-InterpolationExample.png)
 
 
