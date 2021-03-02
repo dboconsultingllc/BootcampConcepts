@@ -40,7 +40,7 @@ ARM Templates are a way to declare the objects you want, the types, names and pr
 ## ArmViz example using sample ARM template 
 | ARM Template | Diagram |
 | --- | ----------- |
-| [`Link to sample json`](https://github.com/dboconsultingllc/BootcampConcepts/blob/mainBranch/ARM/ARM-NewVM.json) | ![sample](https://github.com/dboconsultingllc/BootcampConcepts/blob/mainBranch/images/armVizSample.png)
+| [`Link to sample json`](https://github.com/dboconsultingllc/BootcampConcepts/blob/mainBranch/ARM/ARM-NewVM.json) | ![armViz](https://github.com/dboconsultingllc/BootcampConcepts/blob/mainBranch/images/armVizSample.PNG)
 |
 
 
