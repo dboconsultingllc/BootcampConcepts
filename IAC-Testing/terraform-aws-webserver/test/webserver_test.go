@@ -34,7 +34,7 @@ func TestTerraformWebserverExample(t *testing.T){
 	publicIP := terraform.Output(t, terraformOptions, "public_ip")
 	
 	//the fmt library is for printing output. A string replace function to replace with the public ip
-	url := fmt.Sprintf("http%s:8080", publicIP)
+	url := fmt.Sprintf("http://%s:8080", publicIP)
 
 	//http helper library is in the terratest library
 	//t for test, url variable, nil is for tls, 200 http status, "body of html", 30 retries, wait 5 seconds between tests 
