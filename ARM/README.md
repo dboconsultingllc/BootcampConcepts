@@ -13,6 +13,8 @@ ARM Templates are a way to declare the objects you want, the types, names and pr
 
 * Azure CLI Commnands [`reference`](https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest)
 
+* [`Visualize`](http://armviz.io/designer) all of the resources in your ARM template. 
+
 * Many more tips to come!
 
 ## High level description of an arm template 
@@ -35,3 +37,11 @@ ARM Templates are a way to declare the objects you want, the types, names and pr
     "outputs": {}
 }
 ```
+## ArmViz example using sample ARM template 
+| ARM Template | Diagram |
+| --- | ----------- |
+| [`Link to sample json`](https://github.com/dboconsultingllc/BootcampConcepts/blob/mainBranch/ARM/ARM-NewVM.json) | ![sample](https://github.com/dboconsultingllc/BootcampConcepts/blob/mainBranch/images/armVizSample.png)
+|
+
+
+
