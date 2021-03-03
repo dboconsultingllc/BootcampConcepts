@@ -12,6 +12,12 @@ Git commands to help with simple day to day tasks.
 
 ### Git push: **Push files to remote repo**   <pre> `Git Push ` 
 
+### Git pull: **Pull files from remote repo to get all the latest changes**   <pre> `Git Pull ` 
+
+### Git Cheatsheet: **[Link to cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)**
+
+
+
 ### VERY IMPORTANT!!: **[Markdown Emoji's!](https://gist.github.com/rxaviers/7360908)** 
 Examples below. :blush:
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
